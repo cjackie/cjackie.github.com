@@ -1,0 +1,23 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Chaojie's Blog
+tagline:          'starry night'
+description:      'Writings inspired from daily life.'
+url:              http://cjackie.github.com
+baseurl:          '/'
+paginate:         5
+
+author:
+  name:           'Chaojie Wang'
+  url:            https://www.linkedin.com/pub/chaojie-wang/6b/a7a/290
+
+# Custom vars
+version:          1.0.0
+
+github:           https://github.com/cjackie
