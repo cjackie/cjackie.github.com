@@ -24,6 +24,7 @@ useless  |--------------------------------------->
 ### SQL and Haskell
 In the video, Prof. Jones talked about SQL has borrowed many ideas from functional programming languages like Haskell in its design. At first I didn't understand why. But after learning about database from [a coursera class](https://www.coursera.org/course/datasci), I started to understand why.</br>
 There are some similarities between two languages:
+
 - Both are declarative languages, meaning we, as programmers, express our algorithm in the code as oppose to write out each steps one by one. Two advantages doing this: 1. increase productivity. 2. leave room for optimization by the compiler
 - Both do things in the "functional way", meaning they achieve effects by transforming dataflow. This limits side effects on the data, and makes it more predictable, therefore improve safety.
 
