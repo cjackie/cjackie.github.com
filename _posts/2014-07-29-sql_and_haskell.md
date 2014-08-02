@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Funcitonal programming meets real world
+title: Functional programming meets real world
 tags: programming, paradigm
 ---
 
