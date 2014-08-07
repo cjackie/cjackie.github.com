@@ -17,7 +17,7 @@ The idea is utterly - A semi-autonomous system that explores the earth. The syst
 
 ### Architecture of Faitson?
 There are serveral components in Faitson - power source module(PSM), control unit(CU), wireless module(WM), main body (BM).</br>
-Let's first talk about PSM. The module should consist of a rechargable power supply, a solar panel and a small micro-controller. Solar panel is the mean to collect energy from the sun, and power supply is the medium to store energy. Then micro-controller will provide some 'smartness' to the module: 
+Let's first talk about PSM. The module should consist of a rechargeable power supply, a solar panel and a small micro-controller. Solar panel is the mean to collect energy from the sun, and power supply is the medium to store energy. Then micro-controller will provide some 'smartness' to the module: 
 
 - Provide signal of energy left. call it PWS_EL.
 - Able to trigger ON and OFF. (start charging and stop charging)
@@ -36,14 +36,6 @@ Last but not least, there is the control unit(CU). CU is the "brain" of Faitson,
 In this architecture, all modules can virtually talk to each other through CU, which provides huge flexibility for us to program. Below is a diagram to illustrate the architecture:
 <img src="{{site.baseurl}}images/2014-08-04/architecture.png" alt="architecture">
 
-### Basic algorithm for Faitson
-
-
-### How to "manufacture" Faith
-
-I put
-
-### Side notes
 
 
 
