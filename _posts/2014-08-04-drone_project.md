@@ -15,6 +15,8 @@ The idea is utterly - A semi-autonomous system that explores the earth. The syst
 - It has a brain. The brain is the way to make it 'smart'. And with Internet, 'smart' can be programed remotely.
 - It has 'eyes', meaning it can sense what's going on in the environment
 
+<!--break-->
+
 ### Architecture of Faitson?
 There are serveral components in Faitson - power source module(PSM), control unit(CU), wireless module(WM), main body (BM).</br>
 Let's first talk about PSM. The module should consist of a rechargeable power supply, a solar panel and a small micro-controller. Solar panel is the mean to collect energy from the sun, and power supply is the medium to store energy. Then micro-controller will provide some 'smartness' to the module: 

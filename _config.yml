@@ -11,7 +11,7 @@ tagline:          'Keep learning'
 description:      'There should be no boundaries to human endeavor.'
 url:              http://cjackie.github.com
 baseurl:          '/'
-paginate:         5
+paginate:         3
 
 author:
   name:           'Chaojie Wang'

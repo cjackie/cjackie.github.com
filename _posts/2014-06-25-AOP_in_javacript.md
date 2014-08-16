@@ -6,7 +6,7 @@ tags: javascript, paradigm
 ##Aspect-Oriented Programming
 It might sound complicated, but the idea is in fact very simple, which is adding new behavior to a function. This can be done using in object-oriented way, but for some problems, AOP is a better solution. Let's say you would like to print something before the call, and print something after that call for debugging purposes. Of course you can just make a subclass and add those functionality. However, it feels very unnatural. With AOP, it's straight forward: add one behavior before the call and another one after the call. The abstraction really free you from thinking details about class relationships, and other methods, and make you focus more on what the code does.<br>
   Let's give an example of AOP:
-  
+
 ```javascript
 function Person(name) { 
   this.name = name
@@ -16,6 +16,8 @@ Person.prototype.say = funciton() {
   console.log(this.name);
 }
 ```
+
+<!--break-->
 
 Now you make an 'instance' of it (in reality, better call it create a new an object)
 
