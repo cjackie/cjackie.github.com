@@ -10,7 +10,7 @@ title:            Chaojie's Blog
 tagline:          'Keep learning'
 description:      'There should be no boundaries to human endeavor.'
 url:              http://cjackie.github.com
-baseurl:          '/'
+baseurl:          '/cn/'
 paginate:         5
 
 author:
