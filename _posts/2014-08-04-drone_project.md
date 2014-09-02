@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Faitson - a drone project (proof of concept)
-tags: drone, electronics
+tags:
+ - drone
+ - electronics
 ---
 
 ### Intro

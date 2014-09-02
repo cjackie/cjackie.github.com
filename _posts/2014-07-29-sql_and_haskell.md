@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Functional programming meets real world
-tags: programming, paradigm
+tags:
+ - programming
+ - paradigm
 ---
 
 ### Haskell is useless
