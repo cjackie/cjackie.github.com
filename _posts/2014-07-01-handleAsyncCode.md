@@ -12,7 +12,7 @@ Anyway, I found function generator was because I found [koa](https://github.com/
 Reason 1: function generator is light weight and it's implemented in native code, as suppose to library. So I will assume it has better performance.<br>
 Reason 2: control flow using function generator looks more imperative.
 
-```js
+~~~javascript
 //using co library
 co(function* () {
   var text = yield readFile();
@@ -22,11 +22,11 @@ co(function* () {
 })();
 
 //above is not valid code, just use to illustrate concept.
-```
+~~~
 
 whereas, you use promise it will look something like:
 
-```js
+~~~javacript
 //using library Q
 Q.fcall(readFile)
 .then(function (text) {
@@ -35,7 +35,7 @@ Q.fcall(readFile)
 }).then(....) 
 
 //above is not valid code, just use to illustrate the concept
-```
+~~~
 
 if a person who is not familiar with callback, he or she will be likely to understand first one. indeed, I think the first looks more natural. you just think of it execute step by step. yield will pause the function until async function is finished. Promise approach tries to use `then` sugar to make it appear more natural, but you still need to think about callback(maybe I'm wrong). Anyway, yield appears more natural.
 
