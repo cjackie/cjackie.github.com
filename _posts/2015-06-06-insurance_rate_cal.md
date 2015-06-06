@@ -16,4 +16,5 @@ Now, use principle presented at[1], and assume that it's a competitive market wh
 $$E[X_g]=\sum_{i=1}^{t} mi\rho^{i-1}(1-\rho)+tm(1-\sum_{i=1}^{t} \rho^{i-1}(1-\rho))$$
 $$E[X_l]=D(1-\sum_{i=1}^{t} \rho^{i-1}(1-\rho))$$
 </p>
-
+<p>
+Of course, this model is crude. for example, assumption that each year has same probability of passing away is not realistic. And Inflation is not taken into account. Inflation problem I think is easy to solve. We can consult market for expected inflation over next $t$ years, and bring the future cash flow back to a same year.
