@@ -7,14 +7,15 @@ tags:
 ---
 
 ### Haskell is useless
-A few weeks ago, I came across a video called [Haskell is useless](https://www.youtube.com/watch?v=iSmkqocn0oQ) when I was learning haskell. I was intrigued by the title, because It was listed on the haskell website! The video itself is very informative. People in the video are the very people who design and maintain Haskell. </br>
-In the video, Prof. Jones categorized programming languages according to two main characteristics: one is usefulness and the other is safety. Most noticeably, C would be very useful yet unsafe. on the other hand, Haskell is safe yet useless. Usefulness is achieved by allowing side effects, which is inherently unsafe, although the safety can be enhanced by good practice, like closure and objected oriented way. And then there is Haskell, representing the functional world where there is no or little side effects. Haskell is a pure functional programming language. which has no side effects, but 'useless'. And the recent trend is that both trying to achieve safety and usefulness. </br>
-
+A few weeks ago, I came across a video called [Haskell is useless](https://www.youtube.com/watch?v=iSmkqocn0oQ) when I was learning haskell. I was intrigued by the title, because It was listed on the haskell website! The video itself is very informative. People in the video are the very people who design and maintain Haskell. <br>
 <!--break-->
+In the video, Prof. Jones categorized programming languages according to two main characteristics: one is usefulness and the other is safety. Most noticeably, C would be very useful yet unsafe. on the other hand, Haskell is safe yet useless. Usefulness is achieved by allowing side effects, which is inherently unsafe, although the safety can be enhanced by good practice, like closure and objected oriented way. And then there is Haskell, representing the functional world where there is no or little side effects. Haskell is a pure functional programming language. which has no side effects, but 'useless'. And the recent trend is that both trying to achieve safety and usefulness. <br>
+
+
 
 Below is to illustrate the differenet languages' usefulness and safety.
 
-```
+~~~
          ^ 
 useful   | C Java        SQL            'utopia' :)
          |                    
@@ -24,7 +25,7 @@ useful   | C Java        SQL            'utopia' :)
          |                                Haskell
 useless  |--------------------------------------->
           unsafe                             safe
-```
+~~~
 
 ### SQL and Haskell
 In the video, Prof. Jones talked about SQL has borrowed many ideas from functional programming languages like Haskell in its design. At first I didn't understand why. But after learning about database from [a coursera class](https://www.coursera.org/course/datasci), I started to understand why.</br>

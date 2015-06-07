@@ -8,7 +8,7 @@ tags:
 
 ### Intro
 I like drones. They give the freedom that human being can't have physically. they are like wings, and with those wings, you can go everywhere, explore the earth. Drones are getting cheaper every day. Despite of my strong desire to buy one, I still don't have one - It's too expensive for me. Even though I couldn't afford to buy one, I already have an project in mind involving drones. This post is my attempt to present the project, at least concept-wise. I would call it Faitson (don't ask why the name :smile:).
-
+<!--break-->
 ### What is the Faitson?
 The idea is utterly - A semi-autonomous system that explores the earth. The system can fly to many different places and collect data (All I can think of right now will be pictures). Drones have been able to do that, however they are not automated and they have any restrictions. My system is robust and awesome. It can fly to very far places, and take pictures(data) and then give them to you. Key functionalities that Faitson has to make it possible:
 
@@ -17,7 +17,7 @@ The idea is utterly - A semi-autonomous system that explores the earth. The syst
 - It has a brain. The brain is the way to make it 'smart'. And with Internet, 'smart' can be programed remotely.
 - It has 'eyes', meaning it can sense what's going on in the environment
 
-<!--break-->
+
 
 ### Architecture of Faitson?
 There are serveral components in Faitson - power source module(PSM), control unit(CU), wireless module(WM), main body (BM).</br>
