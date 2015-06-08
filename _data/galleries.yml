@@ -1,0 +1,47 @@
+#data for gallery.html, think of it as a list of list... stuff
+- id: gallery1
+  description: 治愈型
+  imagefolder: gallery/japanese_stars
+  images:
+  - name: gaki1.jpg
+    thumbnail: gaki1_tn.jpg
+    text: aragakiてす
+    w: 1280
+    h: 1024
+  - name: gaki2.jpg
+    thumbnail: gaki2_tn.jpg
+    text: aragakiてす
+    w: 1440
+    h: 810
+  - name: gaki3.jpg
+    thumbnail: gaki3_tn.jpg
+    text: aragakiてす
+    w: 1272
+    h: 900
+  - name: ueno1.jpg
+    thumbnail: ueno1_tn.jpg
+    text: 上野 樹里,声音很有趣
+    w: 2962
+    h: 1975
+  - name: ueno2.jpg
+    thumbnail: ueno2_tn.jpg
+    text: 向阳处的她
+    w: 3432
+    h: 2472
+  - name: yuriko1.jpg
+    thumbnail: yuriko1_tn.jpg
+    text: 吉高由里子，关西腔很可爱
+    w: 1280
+    h: 720
+
+#anthoer gallery can be added like this
+#- id: gallery2
+#  description: another gallery
+#  imagefolder: gallery/test2
+#  images:
+#  - name: pijin2.jpeg
+#    thumbnail: pijin2_tn.jpeg
+#    text: suki
+#    w: 301
+#    h: 450
+
