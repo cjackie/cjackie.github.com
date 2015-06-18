@@ -46,3 +46,37 @@
 #    w: 301
 #    h: 450
 
+- id: It's New York!
+  description: Photos I took in New York
+  imagefolder: gallery/ny
+  images:
+  - name: near brooklyn bridge1.jpg
+    thumbnail: near brooklyn bridge1 tn.jpg
+    text: Manhattan Bridge
+    w: 5312
+    h: 2988
+  - name: near brooklyn bridge2.jpg
+    thumbnail: near brooklyn bridge2 tn.jpg
+    text: Brooklyn Bridge. You can see skyscrapers on the other end!
+    w: 5312
+    h: 2988
+  - name: snowy day.JPG
+    thumbnail: snowy day tn.JPG
+    text: a swony day, near my house
+    w: 3264
+    h: 2448
+  - name: grand central.jpeg
+    thumbnail: grand central tn.jpeg
+    text: Grand Central, very busy place
+    w: 800
+    h: 600
+  - name: Intrepid.jpeg
+    thumbnail: Intrepid tn.jpeg
+    text: The Intrepid Sea, Air and Space Museum
+    w: 1137
+    h: 640
+  - name: space shuttle.jpeg
+    thumbnail: space shuttle tn.jpeg
+    text: space shuttle. It's real; it has been to space.
+    w: 1137
+    h: 640
