@@ -76,6 +76,8 @@ len = foldr((x,r) -> r+1,
 agv_income = s/len
 {% endhighlight %}
 
+I think functional programming is interesting. For those of you who are interested, I recommend learning <a href="https://www.haskell.org/" target="_blank">Haskell</a>. It will give you a new perspective on writing programs.
+
 Reference:<br>
 <a href="http://people.cs.aau.dk/~normark/prog3-03/html/notes/higher-order-fu_themes-intr-section.html" target="_blank">[1]</a> Introduction to higher-order functions<br>
 <a href="http://hci.stanford.edu/courses/cs448g/a2/files/map_reduce_tutorial.pdf" target="_blank">[2]</a> A Very Brief Introduction to MapReduce, Diana MacLean 
