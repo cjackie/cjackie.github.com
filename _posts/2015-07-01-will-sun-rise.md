@@ -20,5 +20,5 @@ p(\pi|D) & = \frac {p(D|\pi)p(\pi)}{p(D)}
 \end{align*}
 $$
 
-From the result, we can see that $p(\pi\|D)$ is also a beta distribution, $Beta(n+1,m-n+1)$. Since you can reach to my website and read until this point, I can safely say that you are old enough to see sun rise for the past 60 days. If not, believe me, for the past 60 days, sun have been there. I'm old enough. Then we can apply this formula to see what is the distribution of the probabilty that sun will rise tomorrow. Click <a href="http://www.wolframalpha.com/input/?i=beta+distribution%2861%2C1%29" target="_blank">here</a> to visualize the distribution.
+We can see that $p(\pi\|D)$ is also a beta distribution, $Beta(n+1,m-n+1)$. Since you can reach to my website and read until this point, I can safely say that you are old enough to see sun rise for the past 60 days. If not, believe me, for the past 60 days, sun have been there. I'm old enough. Then we can apply this formula to see what is the distribution of the probabilty that sun will rise tomorrow. Click <a href="http://www.wolframalpha.com/input/?i=beta+distribution%2861%2C1%29" target="_blank">here</a> to visualize the distribution.
 
