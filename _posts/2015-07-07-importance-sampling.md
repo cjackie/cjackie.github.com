@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Simple Review of Importance Sampling
+title: A Review of Importance Sampling
 tags:
 - monte carlo
 - probability
