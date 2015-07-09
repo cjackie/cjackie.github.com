@@ -61,7 +61,7 @@ p(\mathbf x, \boldsymbol\pi) =
 \end{equation}
 $$
 
-The equation (3) is every thing we need to perform analysis. Let's see what the model says about my friend's skill based on that he stayed for $12$ games for one time, $p(\boldsymbol \pi \| \mathbf x = 12)$:
+The equation $(2)$ is every thing we need to perform analysis. Let's see what the model says about my friend's skill based on that he stayed for $12$ games for one time, $p(\boldsymbol \pi \| \mathbf x = 12)$:
 <img src="{{site.baseurl}}images/2015-07-09/analysis1.png" alt="analysis1">
 This graph sort of matches with our intuition. Staying for $12$ games is not a easy thing, which probably means that my friend has higher skill than many other players.
 
