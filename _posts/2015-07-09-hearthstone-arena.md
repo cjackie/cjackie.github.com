@@ -69,7 +69,7 @@ Now let's see what the model says about my skill. On average I stayed only for $
 <img src="{{site.baseurl}}images/2015-07-09/analysis2.png" alt="analysis2">
 The result was better than I thought. I thought it will be highly concentrated near $0$.
 
-Some analysis from the model actually surprised me. For example, for high skill player, It's much more likely to stay for $12$ games, than any other individual outcome, like $11$. $p(\mathbf x \| \boldsymbol \pi = 0.8):
+Some analysis from the model actually surprised me. For example, for high skill player, It's much more likely to stay for $12$ games, than any other individual outcome, like $11$. $p(\mathbf x \| \boldsymbol \pi = 0.8)$:
 <img src="{{site.baseurl}}images/2015-07-09/analysis3.png" alt="analysis3">
 But when you carefully think about it, It makes sense. Because for high skill player, the tail events has tangible probability, which has been summed up when the game stops at $12$.
 
