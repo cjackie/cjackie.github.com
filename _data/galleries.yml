@@ -46,8 +46,8 @@
 #    w: 301
 #    h: 450
 
-- id: It's New York!
-  description: Photos I took in New York
+- id: New York
+  description: New York
   imagefolder: gallery/ny
   images:
   - name: near brooklyn bridge1.jpg
@@ -80,3 +80,53 @@
     text: space shuttle. It's real; it has been to space.
     w: 1137
     h: 640
+
+- id: Montauk
+  description: Montauk
+  imagefolder: gallery/montauk
+  images:
+  - name: 2015-10-24 11.21.42.jpg
+    thumbnail: 2015-10-24 11.21.42_tn.jpg
+    text: 
+    w: 5312
+    h: 2988
+  - name: 2015-10-24 11.22.04.jpg
+    thumbnail: 2015-10-24 11.22.04_tn.jpg
+    text: 
+    w: 5312
+    h: 2988
+  - name: 2015-10-24 11.30.04.jpg
+    thumbnail: 2015-10-24 11.30.04_tn.jpg
+    text: 
+    w: 5312
+    h: 2988
+  - name: 2015-10-24 11.33.42.jpg
+    thumbnail: 2015-10-24 11.33.42_tn.jpg
+    text: 
+    w: 5312
+    h: 2988
+  - name: 2015-10-24 16.09.21.jpg
+    thumbnail: 2015-10-24 16.09.21_tn.jpg
+    text: 
+    w: 5312
+    h: 2988
+  - name: 2015-10-24 16.09.27.jpg
+    thumbnail: 2015-10-24 16.09.27_tn.jpg
+    text: 
+    w: 5312
+    h: 2988
+  - name: 2015-10-24 16.16.44.jpg
+    thumbnail: 2015-10-24 16.16.44_tn.jpg
+    text: 
+    w: 5312
+    h: 2988
+  - name: 2015-10-24 16.16.46.jpg
+    thumbnail: 2015-10-24 16.16.46_tn.jpg
+    text: 
+    w: 5312
+    h: 2988
+  - name: 2015-10-24 16.24.49.jpg
+    thumbnail: 2015-10-24 16.24.49_tn.jpg
+    text: 
+    w: 5312
+    h: 2988
