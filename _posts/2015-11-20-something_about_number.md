@@ -5,7 +5,7 @@ tags:
 - math
 ---
 
-Number is something very interesting. It is abstract, yet it feels so concrete and real. The concreteness comes from our daily usage of numbers, which can be helpful ,and illusional well. <!--break-->
+Number is something very interesting. It is abstract, yet it feels so concrete and real. The concreteness comes from our daily usage of numbers, which can be helpful ,and illusional as well. <!--break-->
 
 For a computer science, computer engineering or related majors, there are some numbers that we are quite familiar. For example, power of base two numbers: $2^1, 2^2, 2^3, ..., 2^{10}$. Important units like KB,MB,GB coming from these number - $KB = 2^{10}B$, $MB = 2^{20}B$ and $GB = 2^{30}B$. These number is very helpful to keep in mind; when we reason about something that is quantitative, these number can be used as a benchmark for comparing. For example, in computer science, complexity is an important metrics, which could be time complexity or memory complexity. Let say we have an algorithm that has $O(n)$ complexity, which is pretty good. But how good is it in practice? To answer this question, we need to know what is $n$ roughly for a given problem. If n is in the order of $9$, which is roughly $2^{30}$, then the algorithm will take in order of seconds. This is because clock speed of modern computer is in the order of 9 since it is few GHz speed. Once our complexity tells us our program takes in the order of seconds, the constant part of $O(n)$ becomes important. For example $10000n$ is also $O(n)$, which in practice will result in significant different; the coefficient will slow down the program a lot.
 
