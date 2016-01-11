@@ -6,8 +6,8 @@ permalink:        pretty
 
 # Setup
 title:            Chaojie's Blog
-tagline:          'Seeking the real with a distorted lens'
-description:      'There should be no boundaries to human endeavor.'
+tagline:          ''
+description:      ''
 url:              http://cjackie.github.com
 baseurl:          '/'
 paginate:         5
