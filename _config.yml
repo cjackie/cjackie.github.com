@@ -10,7 +10,7 @@ title:            Chaojie's Blog
 tagline:          ''
 description:      ''
 url:              http://cjackie.github.com
-baseurl:          '/'
+baseurl:          '/blog/'
 paginate:         5
 
 author:
