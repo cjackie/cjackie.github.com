@@ -7,7 +7,7 @@ title: Posts
   {% for post in site.posts %}
   
     <h4 class="post-title" data-tag="{{ post.tags }}">
-      <a href="{{ post.url }}">
+      <a href="{{ site.baseurl }}{{ post.url }}">
         {{ post.title }}
       </a>
 

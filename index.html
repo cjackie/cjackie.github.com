@@ -7,7 +7,7 @@ title: Home
   {% for post in paginator.posts %}
   <div class="post">
     <h1 class="post-title">
-      <a href="{{ post.url }}">
+      <a href="{{ site.baseurl }}{{ post.url }}">
         {{ post.title }}
       </a>
     </h1>
@@ -16,7 +16,7 @@ title: Home
     
     {{ post.content | split:'<!--break-->' | first }}
     {% if post.content contains '<!--break-->' %}
-    <a href="{{ post.url }}">read more</a>
+    <a href="{{ site.baseurl }}{{ post.url }}">read more</a>
     {% endif %}
   </div>
   <hr>
