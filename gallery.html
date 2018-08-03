@@ -9,8 +9,8 @@ title: Gallery
 <div class="my-gallery" itemscope itemtype="http://schema.org/ImageGallery">
   {% for image in gallery.images %}
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="{{site.baseurl}}{{ gallery.imagefolder }}/{{ image.name }}" itemprop="contentUrl" data-size="{{image.w}}x{{image.h}}">
-      <img src="{{site.baseurl}}{{ gallery.imagefolder }}/{{ image.thumbnail }}" itemprop="thumbnail" alt="{{image.name}}" />
+    <a href="/{{ gallery.imagefolder }}/{{ image.name }}" itemprop="contentUrl" data-size="{{image.w}}x{{image.h}}">
+      <img src="/{{ gallery.imagefolder }}/{{ image.thumbnail }}" itemprop="thumbnail" alt="{{image.name}}" />
     </a>
     <figcaption itemprop="caption description">{{image.text}}</figcaption>
   </figure>
@@ -86,4 +86,4 @@ title: Gallery
 
 
 
-<script src="{{ site.baseurl }}public/js/for_gallery.js" defer></script>
+<script src="public/js/for_gallery.js" defer></script>

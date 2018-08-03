@@ -21,7 +21,7 @@ r = 3  \\
 $$
 
 Here is the DAG(Directed Acyclic Graph) representation of the model:
-<img src="{{site.baseurl}}images/2015-07-09/dag.png" alt="dag">
+<img src="/images/2015-07-09/dag.png" alt="dag">
 Since $\boldsymbol\alpha \sim \beta(1,1)$, $p(\boldsymbol\pi)$ is straight-forward, which is $1$. $p(\mathbf x\| \boldsymbol\pi, r)$ requires a little work. Let's first remove the constraint that a player can only stay up to 12 games, then:
 
 $$
@@ -62,15 +62,15 @@ p(\mathbf x, \boldsymbol\pi) =
 $$
 
 The equation $(2)$ is every thing we need to perform analysis. Let's see what the model says about my friend's skill based on that he stayed for $12$ games for one time, $p(\boldsymbol \pi \| \mathbf x = 12)$:
-<img src="{{site.baseurl}}images/2015-07-09/analysis1.png" alt="analysis1">
+<img src="/images/2015-07-09/analysis1.png" alt="analysis1">
 This graph sort of matches with our intuition. Staying for $12$ games is not a easy thing, which probably means that my friend has higher skill than many other players.
 
 Now let's see what the model says about my skill. On average I stayed only for $4$ games:
-<img src="{{site.baseurl}}images/2015-07-09/analysis2.png" alt="analysis2">
+<img src="/images/2015-07-09/analysis2.png" alt="analysis2">
 The result was better than I thought. I thought it will be highly concentrated near $0$.
 
 Some analysis from the model actually surprised me. For example, for high skill player, It's much more likely to stay for $12$ games, than any other individual outcome, like $11$. $p(\mathbf x \| \boldsymbol \pi = 0.8)$:
-<img src="{{site.baseurl}}images/2015-07-09/analysis3.png" alt="analysis3">
+<img src="/images/2015-07-09/analysis3.png" alt="analysis3">
 But when you carefully think about it, It makes sense. Because for high skill player, the tail events has tangible probability, which has been summed up when the game stops at $12$.
 
 There are some extra things I want to point out. In this analysis, I only use single data for the model. The model can be extended to describe many more data about a player's performance, which will have richer and more accurate information reflecting about the player. The arena has other aspect, which is worthy analyzing as well, like average reward for a player based on his skill. This kind of analysis can be good for making better decision about whether or not play the arena(Of course, we don't do that, we play it just for fun). To do that, the existing model can be reused. I imagine It will be more complicated and other tools need to be used for analysis, for example <a href="http://chaojie.me/2015/07/07/importance-sampling/" target="_blank">importance sampling</a> and MCMC.

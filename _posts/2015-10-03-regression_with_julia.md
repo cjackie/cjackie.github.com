@@ -77,7 +77,7 @@ The function ```solve!``` has several parameters. Some of them can are used to c
 
 The simulation result,
 
-<img src="{{site.baseurl}}images/2015-10-03/linear_regression.png" alt="linear regression"/>
+<img src="/images/2015-10-03/linear_regression.png" alt="linear regression"/>
 
-If you want to play with the source code, click on <a href="{{site.baseurl}}documents/source_code/2015-10-03/linreg.jl" download="linreg.jl">here</a>.
+If you want to play with the source code, click on <a href="/documents/source_code/2015-10-03/linreg.jl" download="linreg.jl">here</a>.
 

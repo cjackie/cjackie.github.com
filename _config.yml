@@ -10,7 +10,6 @@ title:            Chaojie's Blog
 tagline:          ''
 description:      ''
 url:              'https://www.cjackie.net'
-baseurl:          '/blog'
 paginate:         5
 
 author:

@@ -8,7 +8,7 @@ tags:
 
 <p>
 Bayesian belief network is a graph that shows probabilistic dependencies among all nodes, in which the possible values for each node is countable and discrete. For example, a person health is probabilitically depended on many factors. One factor can be whether he or she smokes cigarette or not. Graphically, this example can be shown as following<!--break-->:
-<img src="{{site.baseurl}}images/2015-06-23/two_nodes.png" alt="graph">
+<img src="/images/2015-06-23/two_nodes.png" alt="graph">
 Mathematically, this graph tells us that $P(Health|smoke) \neq P(Health)$. In other words, given the person smokes or not, the probability of the person being healthy or not is different than if the information is not given. In this simple example, the node dependency is obvious to us, due to our prior knowledge about smoking and health. But when we encounter new nodes that we are not familiar, making a dependency graph is difficult, especially when the number of nodes is big. In science, we often have data collected by doing experiments, and we want to uncover dependencies among all nodes(factors). So a method to induce a best bayesian belief network for nodes is attractive.
 </p>
 
