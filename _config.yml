@@ -1,6 +1,6 @@
 # Dependencies
 markdown:         kramdown
-gems:             [jekyll-paginate]
+#gems:             [jekyll-paginate]
 
 # Permalinks
 permalink:        pretty
@@ -9,13 +9,12 @@ permalink:        pretty
 title:            Chaojie's Blog
 tagline:          ''
 description:      ''
-url:              https://www.cjackie.net
+url:              'https://www.cjackie.net'
 baseurl:          '/blog/'
 paginate:         5
 
 author:
   name:           'Chaojie Wang'
-  url:            https://www.linkedin.com/pub/chaojie-wang/6b/a7a/290
 
 # Custom vars
 version:          1.0.0
