@@ -23,7 +23,7 @@ tags:
 - A living thing seeks above all to discharge its strength. Life itself is will to power. Self-preservation is only one of the indirect and most frequent results.
 - Physics is only an interpretation, not a world-explanation. It is based on belief on the senses. What can be seen and felt is fascinating,persuasive, and convincing.
 - The charm of platonic way of thinking, which was a noble way of thinking, consisted in resistance to obvious sense-evidence. The charm is enjoyed by a stronger and more demanding senses than our contemporaries, who knew how to find a higher triumph in remaining masters of their senses.
-Physics is a right imperative for a tough, industrious race of machinists and bridge-builders of the future, who have nothing but rough work to do.
+- Physics is a right imperative for a tough, industrious race of machinists and bridge-builders of the future, who have nothing but rough work to do.
 - There is no such thing such “absolute knowledge”, and “thing in itself”
 - A refutable theory attracts subtler minds. Again and again, someone comes along who feels he is strong enough to refute it.
 - Willing is something complicated, something that is a unit only as a word. Let us be more cautious and “unphilosophical” about what is wiling. Willing is sensations.Willing is an affect. The affect of superiority in relations to him who must obey.
