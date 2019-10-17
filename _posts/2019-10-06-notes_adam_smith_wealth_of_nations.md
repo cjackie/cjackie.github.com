@@ -31,7 +31,7 @@ The increase of revenue due to the increase of market price goes to one of the p
 1. When the wealth of the nation is increasing, employers compete for labor, then labor wage increase.
 2. When the wealth of the nation is stagnant, labor wage is unchanging, or even decreasing
 3. When the wealth of nation is decreasing, labor wage is decreasing. Life on the lower rank people are miserable. There are few jobs.
-- Wage and population. The causality is not clear, but increasing of wage is often accompanied by the increase in the population, and the increase of wage often comes with the decreasing in the population.
+- Wage and population. It is unclear what is cause, and what is effect. The increasing of wage is often accompanied by the increase in the population, and the increase of wage often comes with the decreasing in the population.
 - The increase of wage, encourages lower rank to have more children. Children in a nation that is increasing in its wealth can be a fortune to the parents, Whereas, in a stagnant nation, the parents have enought wage only to support his children, so that his children remains as the same working class.
 
 ### Of the profits of stock
