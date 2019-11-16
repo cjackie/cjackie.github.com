@@ -8,6 +8,8 @@ layout: default
   {{ content }}
 </div>
 
+<
+
 <!--comment-->
 <div id="disqus_thread"></div>
 <script>
@@ -49,3 +51,13 @@ s.setAttribute('data-timestamp', +new Date());
     {% endfor %}
   </ul>
 </div>
+
+
+<script type="text/javascript">
+  (function() {
+    var h4 = document.getElementsByTagName("h4");
+    for (var i = 0; i < h4.length; i++) {
+      h4[i].style.fontSize = "1.1rem";
+    }
+  })();
+</script>
