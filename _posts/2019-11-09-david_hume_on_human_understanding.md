@@ -7,7 +7,7 @@ tags:
 - experience
 ---
 
-Last updated on: 2019/11/15
+Last updated on: 2019/11/16
 
 ## Of the different species of philosophy
 - Moral philosophy contributes to the entertainment, instruction, and reformation of mankind.
@@ -35,9 +35,32 @@ There are principle of connexion between the different thoughts or ideas of the 
 
 ## Sceptical doubts concerning the operations of the understanding
 All the objects of human reason or enquiry may be divided into two kinds
-1. Relation of Ideas. Examples of relations of ideas are Geometry, Algebra and Airthmetic; in short, every affirmation, which is either intuitively or demonstratively certain.
-2. Matters of Fact. The contrary of every matter of fact is still possible. For exmaple, "the sum will not rise tomorrow" is less intelligible a proposition, than the contrary, "the sun will rise tomorrow". We should in vain to demonstrate ither one is false or true.
+1. _Relation of Ideas_. Examples of relations of ideas are Geometry, Algebra and Airthmetic; in short, every affirmation, which is either intuitively or demonstratively certain.
+2. _Matters of Fact_. The contrary of every matter of fact is still possible. For exmaple, "the sum will not rise tomorrow" is less intelligible a proposition, than the contrary, "the sun will rise tomorrow". We should in vain to demonstrate ither one is false or true.
 
 ### Nature of matter of fact
-Reasoning concerning matter of fact is founded on the relations of Cause and Effect. By cause and effect, we can go beyound the evidence of our memory and senses. If you were to ask a man, why he believes any matter of fact, he would give you a reason, and this reason would be some other fact. For example, if you were to ask a man why he believes his frined is in France, he would give you a letter received from his friend as a reason. A man finding a watch on a desert island, would conclude that there had once been men in that island. All our reasonings concerning matter of afct has the same nature. It is constantly supposed, that there is connexion between the present fact and that which is inffered from it. Another example is that the hearing of a rational discourse in the dark assures us of the presence of some person.
+Reasoning concerning matter of fact is founded on the relations of _Cause and Effect_. By cause and effect, we can go beyound the evidence of our memory and senses. If you were to ask a man, why he believes any matter of fact, he would give you a reason, and this reason would be some other fact. For example, if you were to ask a man why he believes his frined is in France, he would give you a letter received from his friend as a reason. A man finding a watch on a desert island, would conclude that there had once been men in that island. All our reasonings concerning matter of afct has the same nature. It is constantly supposed, that there is connexion between the present fact and that which is inffered from it. Another example is that the hearing of a rational discourse in the dark assures us of the presence of some person.
+
+#### Origin of the knoledge of cause and effect
+Hearing of a rational discourse in the dark is a cause of inferring there is the presence of some person. The knowledge of the relation (cause and effect) is not attained by reasoning a _priori_. The relation is arises entirely from experience. From the experience, we find that a particular object is constantly conjoined with another object. In our example, "rational discourse" is conjoined with "the present of some person". If an object is new to a man, he will not be able to discover any of its causes or effects. A most intelligent man, would not infer the fliudity and transparency of water, that water would suffocate him, if he is new to the water. Our reason, unassisted by experience, cannot ever draw any inference concerning real existence and matter of fact.
+
+#### Refutation to priori
+When any object presented to us, we are required to consult the past experience to pronounce concerning its effects. Imagnation or invention of a particular effect of an object, is arbitrary, when we consult not experience. Given an object, we can conceive hundred different imagined/invented effects. All these effects are equally conceivable and consistent. It is experience that gives us a preference to a particular effect. All our reasonings a priori will never be able to show us any foundation for this preference.
+
+The utmost effort of human reason is to reduce the principles, productive of natural phenomena, to a greater simplicity, and to resolve the many particular effects into a few general causes, by means of reasonings from analogy, experience, and observation. But in vain, we should attempt to discover the causes of these general causes. These ultimate springs and principles are totally shut up from human curiosity and enquiry. Geometry, when taken into the assitance fo natural philosophy, cannot lead us into the knowledge of ultimate causes.
+
+### Ignorance and experiments/experience
+
+#### Our ignorance
+- when asked about a question A, we will give answer B. When again asked about a question regarding B, we will give answer C. A questino of C can be asked again. By repeating the process of asking the question based on the previous answer, at some point, we have to acknowledge the difficulty of coming up with an answer.
+- The force, principle and secret power of nature is concealed from us. Our sense informs us of the color, weight of bread, but our senses nor reason can ever inform us of bread qualities which norish and support of bodies.
+- Two propositions are far from being the same: "I have found that such object has always been attended with such an effect" and "I foresee that other obejcts, which are in appearance similar, will be attended with similar ieffects." THere is no medium/connexion which may enable the mind to draw such as inference. If there is such a medium, the mind can draw inference at first time he sees the object.
+- Objects' secrete nature and consequently, all their effects and influence, amy change, without any change in their sensible qualities.
+
+#### Experiments/experience
+All arguments from experience are founded on the similarity, which we discover among natural objects, and by which we are induced to expect effects similar to those which we have found to follow from such objects. From causes which appear similar we expect similar effects, which is sum of all our experimental conclusions. The conclusion is not formed by reason.
+
+When a man says "I have found, in all past experience, such sensible qualities conjoined with such secret powers", and "similar qualities will always be conjoined with similar secret powers", the man is saying the same thing twice. All inference from the experience assumes that the future will resemble the past, and that similar powers will be conjoined with similar sensible qualities. All these arguments are founded the assumption of that resemblance.
+
+TO BE CONTINUE
 
