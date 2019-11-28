@@ -6,6 +6,8 @@ tags:
 - recursion
 ---
 
+Last updated: 2019/11/28
+
 Suppose all one knows is one (1) and addition (+).
 
 $$
