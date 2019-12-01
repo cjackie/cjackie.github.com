@@ -9,7 +9,7 @@ tags:
 - philosopher
 ---
 
-Last updated on: 2019/11/10
+Last updated on: 2019/11/23
 
 ## Components of the natural price of a commodity
 The components are rent, labor and profit. Rent goes to capitalists, labor goes to the worker, and profits goes to the employer. Price of labor seem the be cost of an average life. Profit is proportional to the capital deployed to make commodity, say a number like 10%, regardless of the price of rent and labor in different places. Rent is called interests or use of money.
@@ -82,4 +82,13 @@ Unprosperous race of men, commonly called men of letters, are pretty much in the
 - The rent of land is naturally a monopoly price: the rent is not proportional to what the landlord may have laid out for improvement of the land, or what the landlord can afford to ake, but to what the tenant can afford to give.
 - The rent is effects of wages and profits.
 
-TO BE CONTINUE
+### Of the produce of land which always affords rent
+- Rent of land taht produce human food (such as corn) regulates the rent of the part of other cultivated land. If any other land afford less rent, the land will be immediately turn to use of human food land, which offers more rent.
+- The advantage which the landlord derives from such improvements of land (or conversion of land to produce other stocks) is, at most times, just sufficient to compensate the original expense of making them. For exmaple, improve of land of corn to wine.
+
+### Of the produce of Land, which sometimes does, and sometimes does not afford rent
+- Human food seems to be the only produce of land, which always and necessarily affords some rent to the landlord. Other sorts of produce sometimes may, and sometimes may not according to the circumstances.
+- There are some land produce is barely sufficient to pay the labor, replace, together with profits.
+- The landlord of coal mine allow nobody else to work them without paying some rent, and nobody can afford to pay any.
+- Coal mine can afford any rent, depends partly upon its fertility, and partly upon its situation. The productions of distant coal mines can never be brought into competition with one another.
+- Me
