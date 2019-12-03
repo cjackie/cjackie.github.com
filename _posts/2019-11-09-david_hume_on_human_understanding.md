@@ -7,7 +7,7 @@ tags:
 - experience
 ---
 
-Last updated on: 2019/11/16
+Last updated on: 2019/12/02
 
 ## Of the different species of philosophy
 - Moral philosophy contributes to the entertainment, instruction, and reformation of mankind.
@@ -62,5 +62,17 @@ All arguments from experience are founded on the similarity, which we discover a
 
 When a man says "I have found, in all past experience, such sensible qualities conjoined with such secret powers", and "similar qualities will always be conjoined with similar secret powers", the man is saying the same thing twice. All inference from the experience assumes that the future will resemble the past, and that similar powers will be conjoined with similar sensible qualities. All these arguments are founded the assumption of that resemblance.
 
-TO BE CONTINUE
+## Sceptical solution of these doubts
 
+### Academic or sceptical philosophy
+By imprudent management, the passion for philosophy may only serve to foster predominant inclination and push the mind towards the inclination with more determined resolution. The inclination and push the mind towards the inclination with more determined resolution. The inclination has already draws too much by the bias and the natural temper. While we study with attention the vanity of human life and turn our thoughts towards the empty and transitory nature of riches and honors, maybe we are after all flattering our natural indolence. We may be seeking a pretence of reason to give our natural inclination a full and uncontrolled indulgence.
+
+On the other hand, academic and sceptical philosophy does not indulge our natural inclination. The sceptical philosophy,
+- Talk of doubt and suspense of judgemnt.
+- Talk of danger in hasty determinations.
+- Talk of confining to very narrow bounds the enquiries within limits of common life and practice.
+
+### Principle of custom/habit
+Wherever the repetition of particular act or operation produces a propensity/inclination to renew the same act or operation, without being impelled by any reasoning or process of the understanding. We always say, this propensity is the effect of *Custom*. For example, the constant conjuction of objects heat and flame, we are determined by custom alone to expect heat and flame. By employing the word custom, we do not give the ultimate reason of such a propensity. The principle of custom are well known and universally acknoledged by its effects. We can push our enquiries no farther to give the cause of the custome, with our limited faculty. We must rest contented with custom as the ultimate principle, which we can assign all our conclusions from experience. All infereneces from experience are effects of custom, not of reason.
+
+Our conclusions from experience [in history/book/oral tradition] carry us beyound our memory and senses. The conclusion ensures us matter of fact which happened in the most distant places and most remote ages; But some fact must always be present to the senses or memory, from which we may first proceed in drawing these conclusions. If we proceed not upon some fact, present to the memory or senses, the conclusion have nothing to be supported.

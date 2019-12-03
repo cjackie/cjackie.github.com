@@ -101,7 +101,7 @@ f_n(k) = f_{n-1}(k) + f_n(k-1)
 $$
 
 $$
-f_n(0) = 0 for all n
+f_n(0) = 0, \forall n
 $$
 
 $$
