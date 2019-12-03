@@ -6,7 +6,7 @@ tags:
 - recursion
 ---
 
-Last updated: 2019/11/28
+Last updated: 2019/12/01
 
 Suppose all one knows is one (1) and addition (+).
 
@@ -70,7 +70,6 @@ $$
 f(n) = f(n-1) + 1, f(0) = 0
 $$
 
-
 $$
 g(n) = g(n-1) + f(n), g(0) = 0
 $$
@@ -82,12 +81,34 @@ $$
 Now, let's then do this
 
 $$
-f_1 = f, f_2 = g, f_3=h, ...
+f_1 = f, f_2 = g, f_3 = h, ...
+$$
+
+that is
+
+$$
+f_n(k) = \underbrace{f_{n-1}(k) + f_{n-1}(k) ... + f_{n-1}(k)}_k
 $$
 
 $$
-f_n =
+f_1(k) = f(k)
 $$
+
+With zero, we can express $f_n(k)$ as
+
+$$
+f_n(k) = f_{n-1}(k) + f_n(k-1)
+$$
+
+$$
+f_n(0) = 0 for all n
+$$
+
+$$
+f_1(n) = f(n)
+$$
+
+Let's diagonize
 
 $$
 \overline{f}(n) = f_n(n)
@@ -121,6 +142,20 @@ $$
 
 $$
 \overline{h}(2) = (((1+1)+(1+1))+((1+1)+(1+1)))+(((1+1)+(1+1))+((1+1)+(1+1)))
+$$
+
+Let's do this
+
+$$
+\overline{f}_1 = \overline{h}, \overline{f}_2 = \overline{g}, \overline{f}_3 = \overline{h}
+$$
+
+$$
+\overline{f}_n(k) = \underbrace{\overline{f}_{n-1} + \overline{f}_{n-1} + ... + \overline{f}_{n-1}}_k
+$$
+
+$$
+\overline{f}_1(k) = \overline{h} = 
 $$
 
 With 0, we can express $\overline{f}, \overline{g}, \overline{h}$ in recursion
