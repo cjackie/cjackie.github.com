@@ -1,6 +1,6 @@
 ---
 layout: post
-title: High School Cafetoria
+title: High School Cafeteria
 tags:
 - story
 - funny
