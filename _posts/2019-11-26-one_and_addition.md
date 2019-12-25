@@ -147,15 +147,15 @@ $$
 Let's do this
 
 $$
-\overline{f}_1 = \overline{h}, \overline{f}_2 = \overline{g}, \overline{f}_3 = \overline{h}
+\overline{f}_1 = \overline{f}, \overline{f}_2 = \overline{g}, \overline{f}_3 = \overline{h}
 $$
 
 $$
-\overline{f}_n(k) = \underbrace{\overline{f}_{n-1} + \overline{f}_{n-1} + ... + \overline{f}_{n-1}}_k
+\overline{f}_n(k) = \underbrace{\overline{f}_{n-1}(k) + \overline{f}_{n-1}(k) + ... + \overline{f}_{n-1}(k)}_k
 $$
 
 $$
-\overline{f}_1(k) = \overline{h} = 
+\overline{f}_1(k) = \overline{f}
 $$
 
 With 0, we can express $\overline{f}, \overline{g}, \overline{h}$ in recursion
